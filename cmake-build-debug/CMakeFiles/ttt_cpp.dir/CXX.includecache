@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/aoppenheim/Desktop/ttt_cpp/Ai.cpp
+Ai.h
+/Users/aoppenheim/Desktop/ttt_cpp/Ai.h
+
+/Users/aoppenheim/Desktop/ttt_cpp/Ai.h
+iostream
+/Users/aoppenheim/Desktop/ttt_cpp/iostream
+
